@@ -8,11 +8,7 @@ import { AngularFireModule} from 'angularfire2';
 
 //Must export config
 export const firebaseConfig = {
-  apiKey: "AIzaSyBuCJ5hZdSfOt8RhSvIPJtVFHdUV_6FlpI",
-  authDomain: "angchat-36a91.firebaseapp.com",
-  databaseURL: "https://angchat-36a91.firebaseio.com",
-  storageBucket: "angchat-36a91.appspot.com",
-  messagingSenderId: "1071814737715"
+  //Your Firebase config
 };
 
 
